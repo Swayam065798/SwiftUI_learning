@@ -14,7 +14,8 @@ struct SwiftUI_LearningApp: App {
     var body: some Scene {
         WindowGroup {
 //            LoginScreen()
-            WrapperListDemoScreen()
+//            WrapperListDemoScreen()
+            CustomViewModifier()
         }
     }
 }
